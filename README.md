@@ -1,4 +1,4 @@
-# Login Form Template
+# HTML CSS Form
 
 A stylish and modern login form template built with HTML and CSS. This template features a clean design with responsive elements, ideal for integrating into any web application or project that requires a login interface.
 
@@ -23,12 +23,12 @@ A stylish and modern login form template built with HTML and CSS. This template 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Iqbolshoh/template-html-css-form.git
+   git clone https://github.com/Iqbolshoh/html-css-form.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd template-html-css-form
+   cd html-css-form
    ```
 
 3. **Open `index.html`** in your browser to view the form.
