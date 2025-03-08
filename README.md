@@ -1,44 +1,22 @@
-# HTML CSS Form
+## 📝 HTML CSS Form  
 
-A stylish and modern login form template built with HTML and CSS. This template features a clean design with responsive elements, ideal for integrating into any web application or project that requires a login interface.
+A stylish and modern **login form** built with **HTML & CSS**. Featuring a **clean design**, **responsive layout**, and **smooth animations**, it's perfect for web applications requiring authentication. 🚀  
 
-## Preview
+## 📌 Features  
 
-### Desktop
+✔ **Responsive Design** – Works on all devices.  
+✔ **Modern UI Elements** – Stylish inputs & buttons.  
+✔ **Customizable** – Easily editable for any project.  
+✔ **Animated Elements** – Smooth transitions & hover effects.  
 
-![Desktop Preview](./src/images/desktop.png)
+## 🚀 Getting Started  
 
-### Mobile
+```bash
+git clone https://github.com/Iqbolshoh/html-css-form.git
+cd html-css-form
+```
 
-![Mobile Preview](./src/images/mobile.png)
-
-## Features
-
-- **Responsive Design**: Adapts to various screen sizes and devices.
-- **Modern UI Elements**: Includes stylish buttons and input fields.
-- **Customizable**: Easy to modify and integrate into your project.
-- **Animated Elements**: Smooth transitions and hover effects.
-
-## Getting Started
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/Iqbolshoh/html-css-form.git
-   ```
-
-2. **Navigate to the Project Directory**:
-   ```bash
-   cd html-css-form
-   ```
-
-3. **Open `index.html`** in your browser to view the form.
-
-4. **Customize** the `style.css` to fit your project's design.
-
-## Usage
-
-- Replace the placeholder text and colors in `style.css` to match your branding.
-- Integrate the form into your web application as needed.
+**Open `index.html`** in your browser and enjoy! 🎨
 
 ## 🖥️ Technologies Used
 
