@@ -1,8 +1,14 @@
-## 📝 HTML CSS Form  
+# 📝 HTML CSS Form  
 
 A stylish and modern **login form** built with **HTML & CSS**. Featuring a **clean design**, **responsive layout**, and **smooth animations**, it's perfect for web applications requiring authentication. 🚀  
 
-## 📌 Features  
+## 🚀 Preview  
+
+### 💻 Desktop View  
+![Desktop View](./src/images/desktop.png)  
+
+### 📱 Mobile View  
+![Mobile View](./src/images/mobile.png)  
 
 ✔ **Responsive Design** – Works on all devices.  
 ✔ **Modern UI Elements** – Stylish inputs & buttons.  
