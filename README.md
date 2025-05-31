@@ -1,21 +1,21 @@
-# 📝 HTML CSS Form  
+# 📝 HTML CSS Form
 
 A stylish and modern **login form** built with **HTML & CSS**. Featuring a **clean design**, **responsive layout**, and **smooth animations**, it's perfect for web applications requiring authentication. 🚀  
 
-## 🚀 Preview  
+## 🚀 Preview
 
-### 💻 Desktop View  
-![Desktop View](./src/images/desktop.png)  
+### 💻 Desktop View
+![Desktop View](./src/images/desktop.png)
 
 ### 📱 Mobile View  
-![Mobile View](./src/images/mobile.png)  
+![Mobile View](./src/images/mobile.png)
 
-✔ **Responsive Design** – Works on all devices.  
-✔ **Modern UI Elements** – Stylish inputs & buttons.  
-✔ **Customizable** – Easily editable for any project.  
-✔ **Animated Elements** – Smooth transitions & hover effects.  
+✔ **Responsive Design** – Works on all devices.
+✔ **Modern UI Elements** – Stylish inputs & buttons.
+✔ **Customizable** – Easily editable for any project.
+✔ **Animated Elements** – Smooth transitions & hover effects.
 
-## 🚀 Getting Started  
+## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/Iqbolshoh/html-css-form.git
