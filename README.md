@@ -9,8 +9,5 @@
 ## 📜 Лицензия
 Этот проект имеет открытый исходный ход и лицензирован под **MIT License**.
 
-## 🤝 Contributing  
-🎯 Contributions are welcome! If you have suggestions or want to enhance the project, feel free to fork the repository and submit a pull request.
-
 ## 📬 Connect with Me  
 💬 I love meeting new people and discussing tech, business, and creative ideas. Let’s connect! You can reach me on these platforms:
