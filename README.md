@@ -2,19 +2,6 @@
 
 Современная и красивая **форма оплаты** сделанная с помощью **HTML & CSS**. Преимущества в **чистом дизайне**, **отзывчивом интерфейсе**, и **плавными анимациями**. 🚀  
 
-## 🚀 Preview
-
-### 💻 Desktop View
-![Desktop View](./src/images/desktop.png)
-
-### 📱 Mobile View  
-![Mobile View](./src/images/mobile.png)
-
-✔ **Responsive Design** – Works on all devices.
-✔ **Modern UI Elements** – Stylish inputs & buttons.
-✔ **Customizable** – Easily editable for any project.
-✔ **Animated Elements** – Smooth transitions & hover effects.
-
 ## 🖥 Использованные технологии
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
